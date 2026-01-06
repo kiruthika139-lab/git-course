@@ -1,7 +1,7 @@
 add and remove users
 change the role
 manage database
-closing database connection
+closing msql database connection
 change 1
 
 change 2 harsh in database
